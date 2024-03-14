@@ -1,4 +1,4 @@
-<img src="https://futureskillsprime.in//sites/default/files/2021-04/web-development.jpg" alt="MasterHead" width="2000" length="400">
+<img src="https://futureskillsprime.in//sites/default/files/2021-04/web-development.jpg" alt="MasterHead" width="1500">
 <h1 align="center">Hi 👋, I'm Aanchal Singh</h1>
 <h3 align="center">A Web Development Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1603428/screenshots/4158745/web-dev-gif.gif">
